@@ -1,4 +1,4 @@
-# Multi-Asset-MVO
+# Multi-Asset Portfolio Optimization
 
 This code (main file "Multi Asset MVO" calculates the minimum variance portfolio subject to returns meeting a benchmark (risk-free rate). The code takes user-input tickers and displays optimal weights under various conditions, portfolio statistics, and graphs. 
 
